@@ -71,6 +71,12 @@
         "region": "Global"
     },
     {
+        "name": "Skill Data Only (Global)",
+        "index": "https://raw.githubusercontent.com/kairusds/hachimi-edge-sd/refs/heads/global/index.json",
+        "short_desc": "Global (EN) terms for the \"Skill data descriptions\" feature. Contributors: kairusds",
+        "language": "en"
+    },
+    {
         "name": "English (UmaTL, Mirror)",
         "index": "https://files.leadrdrk.com/hachimi/umatl.json",
         "short_desc": "Use if you get ZIP errors, see matching desc above. Might be temporary, so keep up to date with developments!",
