@@ -2,7 +2,7 @@
     {
         "name": "English (UmaTL)",
         "index": "https://raw.githubusercontent.com/UmaTL/hachimi-tl-en/release/index.json",
-        "short_desc": "Translates all parts, with a focus on lore & accuracy. Terms might change and not match community. Source: Original. Contributors: noccu (+ maintainer), LotoDS, CatNipHoarder + Holo, Chiwawa, Kasey, … (tinyurl.com/UmaTLCredits)",
+        "short_desc": "Original translation aimed at all game parts, with a focus on lore & accuracy. Terms might change sometimes or not match older fandom conventions. Contributors: noccu (+ maintainer), LotoDS, CatNipHoarder + Holo, Chiwawa, Kasey, … (tinyurl.com/UmaTLCredits)",
         "language": "en"
     },
     {
