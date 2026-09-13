@@ -71,10 +71,11 @@
         "region": "Global"
     },
     {
-        "name": "Skill Data Only (Global)",
+        "name": "Skill Data Descriptions (Global)",
         "index": "https://raw.githubusercontent.com/kairusds/hachimi-edge-sd/refs/heads/global/index.json",
         "short_desc": "Global (EN) terms for the \"Skill data descriptions\" feature. Contributors: kairusds",
-        "language": "en"
+        "language": "en",
+        "region": "Global"
     },
     {
         "name": "English (UmaTL, Mirror)",
